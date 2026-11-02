@@ -1,0 +1,1 @@
+"""Transcriptor local de directos."""
